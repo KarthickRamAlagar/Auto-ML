@@ -1,4 +1,4 @@
-# Auto ML · V2.1
+# Auto ML ·V1
 
 A chat-guided AutoML web app (Assignment 2 prototype). The user picks a task and domain, finds or uploads a dataset,
 answers a few questions (EDA, preprocessing, split, algorithms, tuning), and watches real scikit-learn models train
