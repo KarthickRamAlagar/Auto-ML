@@ -1,0 +1,19 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+*.log
+.DS_Store
+
+# secrets: never commit these
+.env
+.env.*
+!.env.example
+*.pem
+*serviceAccount*.json
+*service-account*.json
+automl.json
+keys/
